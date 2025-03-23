@@ -1,16 +1,17 @@
-<h3 align="center">Developer from ShangHai</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=lanyangyang321&label=Profile%20views&color=0e75b6&style=flat" alt="lanyangyang321" />
-</p>
-<p align="left">
-  <a href="https://space.bilibili.com/1084866085">
-    <img src="https://img.shields.io/badge/%20-lightgray?style=for-the-badge&label=SUBSCRIBE%20%40lanyangyang" alt="SUBSCRIBE @lanyangyang" />
-  </a>
-</p>
-
-[![Bilibili 粉丝](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=blue&label=BiliBili&labelColor=white&query=$.data.follower&url=https://api.bilibili.com/x/relation/stat?vmid=1084866085&logo=bilibili)](https://space.bilibili.com/1084866085)
-[![YouTube](https://img.shields.io/badge/YouTube-white?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@lyyontop)
+<div style="background-color: black; padding: 10px;">
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=lanyangyang321&label=Profile%20views&color=0e75b6&style=flat" alt="lanyangyang321" />
+  </p>
+  <p align="left">
+    <a href="https://space.bilibili.com/1084866085">
+      <img src="https://img.shields.io/badge/%20-lightgray?style=for-the-badge&label=SUBSCRIBE%20%40lanyangyang" alt="SUBSCRIBE @lanyangyang" />
+    </a>
+  </p>
+  <p align="left">
+    [![Bilibili 粉丝](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=blue&label=BiliBili&labelColor=white&query=$.data.follower&url=https://api.bilibili.com/x/relation/stat?vmid=1084866085&logo=bilibili)](https://space.bilibili.com/1084866085)
+    [![YouTube](https://img.shields.io/badge/YouTube-white?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@lyyontop)
+  </p>
+</div>
 
 
 
