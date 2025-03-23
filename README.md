@@ -1,7 +1,8 @@
 <h3 align="center">Developer from ShangHai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lanyangyang321&label=Profile%20views&color=0e75b6&style=flat" alt="lanyangyang321" /> </p>
-<p align="left">[![Follow @RAHULDKJAIN](https://img.shields.io/badge/FOLLOW-%40RAHULDKJAIN-gray?style=for-the-badge)](https://twitter.com/RAHULDKJAIN)</p>
+<p align="left"><img src="https://img.shields.io/badge/FOLLOW-%40Tetrazole-gray?style=for-the-badge" herf="https://space.bilibili.com/1084866085" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/lyyontop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lyyontop" height="30" width="40" /></a>
