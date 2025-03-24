@@ -47,8 +47,8 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> &nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> &nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> &nbsp;
-  <a href="https://lceda.cn/" target="_blank" rel="noreferrer"> <img src="https://lceda.cn/fonts/blue-logo-cn.svg" alt="stmcu" width="250" height="40"/> </a> &nbsp;
-  <a href="https://www.ni.com/" target="_blank" rel="noreferrer"> <img src="https://www.ni.com/is/image/ni/Multisim_BG?$ni-icon-pm$" alt="stmcu" width="50" height="50"/> </a> &nbsp;
-  <a href="http://www.mounriver.com/" target="_blank" rel="noreferrer"> <img src="http://www.mounriver.com/static/img/1b749f75d9c57f654a11b29cdac777f6.png" alt="stmcu" width="220" height="40"/> </a> &nbsp;
+  <a href="https://lceda.cn/" target="_blank" rel="noreferrer"> <img src="https://lceda.cn/fonts/blue-logo-cn.svg" alt="lceda" width="250" height="40"/> </a> &nbsp;
+  <a href="https://www.ni.com/" target="_blank" rel="noreferrer"> <img src="https://www.ni.com/is/image/ni/Multisim_BG?$ni-icon-pm$" alt="Multisim" width="50" height="50"/> </a> &nbsp;
+  <a href="http://www.mounriver.com/" target="_blank" rel="noreferrer"> <img src="http://www.mounriver.com/static/img/1b749f75d9c57f654a11b29cdac777f6.png" alt="mounriver" width="220" height="40"/> </a> &nbsp;
 </p>
 
