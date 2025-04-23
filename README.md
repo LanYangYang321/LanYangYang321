@@ -11,7 +11,7 @@
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=WafflesExploits&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LanYangYang321&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 #### - 👨‍💻 All of my projects are available at https://github.com/LanYangYang321
