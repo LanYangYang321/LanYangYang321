@@ -10,6 +10,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=lanyangyang321&theme=onedark&column=-1" />
+</p>
+
 
 #### - 👨‍💻 All of my projects are available at https://github.com/LanYangYang321
 #### - 📫 Reach me at **Lanyyontop@gmail.com**  
@@ -52,3 +56,4 @@
   <a href="http://www.mounriver.com/" target="_blank" rel="noreferrer"> <img src="http://www.mounriver.com/static/img/1b749f75d9c57f654a11b29cdac777f6.png" alt="mounriver" width="220" height="40"/> </a> &nbsp;
 </p>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lanyangyang321&show_icons=true&theme=transparent)
