@@ -57,3 +57,7 @@
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lanyangyang321&show_icons=true&theme=transparent)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&reversal=true&section=footer"/>
+</p>
