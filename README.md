@@ -11,9 +11,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=lanyangyang321&theme=onedark&column=-1" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=WafflesExploits&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 #### - 👨‍💻 All of my projects are available at https://github.com/LanYangYang321
