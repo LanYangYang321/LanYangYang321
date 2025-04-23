@@ -1,10 +1,11 @@
 # Hi 👋, I'm Lanyangyang
 
 ### A young-dumb 🤓 student from Shanghai
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=lanyangyang321&label=Profile%20views&color=0e75b6&style=flat" alt="lanyangyang321" />
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Lanyangyang321/count.svg" />
 </p>
-<p align="left">
+<p align="center">
   <a href="https://space.bilibili.com/1084866085">
     <img src="https://img.shields.io/badge/%20-lightgray?style=for-the-badge&label=SUBSCRIBE%20%40lanyangyang" alt="SUBSCRIBE @lanyangyang" />
   </a>
