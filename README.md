@@ -15,9 +15,9 @@
   </a>
 </p>
 
-<div align="center" style="background: linear-gradient(135deg, #FFE4EC, #FFD1E1); padding: 20px; border: 2px solid #FFC0CB; border-radius: 15px;">
+<div align="center" style="padding: 20px; border: 2px solid #FFC0CB; border-radius: 15px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LanYangYang321&no-frame=true&column=-1&row=1&margin-w=8&margin-h=8" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=LanYangYang321&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=-1&margin-w=8&margin-h=8" alt="Trophies" />
   </a>
 </div>
 
