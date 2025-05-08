@@ -34,9 +34,8 @@
 ## 📽️ My Video Channels
 
 <div align="left" style="background-color: black; padding: 20px; border: 2px solid white; border-radius: 10px; display: inline-block;">
-
-  <a align="left" href="https://space.bilibili.com/1084866085" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=blue&label=BiliBili&labelColor=white&query=$.data.follower&url=https://api.bilibili.com/x/relation/stat?vmid=1084866085&logo=bilibili" alt="Bilibili 粉丝数">
+  <a href="https://space.bilibili.com/1084866085" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=00BFFF&label=BiliBili&labelColor=282C34&query=$.data.follower&url=https://api.bilibili.com/x/relation/stat?vmid=1084866085&logo=bilibili&logoColor=white" alt="BiliBili 粉丝数" />
   </a>
 
   <a align="left" href="https://www.youtube.com/@lyyontop" target="_blank">
