@@ -69,6 +69,6 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&reversal=true&section=footer"/>[甘露糖醇六硝酸脂.docx](https://github.com/user-attachments/files/20100384/default.docx)
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&reversal=true&section=footer"/>
 </p>
 
