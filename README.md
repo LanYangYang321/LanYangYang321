@@ -23,8 +23,9 @@
 </div>
 
 <p align="center">
-  <img src="https://www.loliapi.com/acg/" alt="Profile Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/8e0ba741-1f81-4532-afde-f82f23776d70" alt="Profile Banner" width="100%" />
 </p>
+
 
 #### - 👨‍💻 All of my projects are available at https://github.com/LanYangYang321
 #### - 📫 Reach me at [Lanyyontop@gmail.com](mailto:Lanyyontop@gmail.com)
