@@ -1,6 +1,7 @@
-<div style="background-image: url('https://www.loliapi.com/acg/'); background-size: cover; padding: 40px; border-radius: 20px;">
+<p align="center" width="100%">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20👋,%20I'm%20Lanyangyang&fontAlign=50&reversal=true&section=header&textBg=false&animation=twinkling&rotate=0&fontAlignY=36"/>
+</p>
 
-<h1 align="center" style="color: #FFC0CB; font-family: 'Comic Sans MS', cursive;">Hi 👋, I'm Lanyangyang</h1>
 <h3 align="center">A young-dumb 🤓 student from Shanghai</h1>
 
 <p align="center">
@@ -45,29 +46,45 @@
 </div>
 
 
-## 🛠️ Languages and Tools
 
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50" height="50" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" />&nbsp;
-  <img src="https://static.stmcu.com.cn/2024-st-logo-blue.svg" alt="ST MCU" width="80" height="40" />&nbsp;
-  <img src="https://www.wch.cn/assets/site/img/logo.png" alt="WCH" width="160" height="40" />&nbsp;
-  <img src="https://www.ni.com/is/image/ni/Multisim_BG?$ni-icon-pm$" alt="Multisim" width="50" height="50" />&nbsp;
-  <img src="http://www.mounriver.com/static/img/1b749f75d9c57f654a11b29cdac777f6.png" alt="Mounriver" width="220" height="40" />
-</p>
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lanyangyang321&show_icons=true&icon_color=E91E63&title_color=FB7299&text_color=ADBAC7&border_radius=15&theme=transparent&border_color=FFC0CB" />
+
+
+<img align="right" width="38%" src="https://www.loliapi.com/acg/pe/"/>
+
+  <a href="https://github.com/LanYangYang321"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Lanyangyang321&show_icons=true&icon_color=E91E63&title_color=FB7299&text_color=ADBAC7&border_radius=15&theme=transparent&border_color=FFC0CB"></a>
+
+## 📘 My top open source projects
+
+<p align="left">
+    <a href="https://github.com/Enhanced-TTVDropBot"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LanYangYang321&repo=tetrojan&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Giingu/DiscordPlus"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=LanYangYang321&repo=NTP-DDOS&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 </p>
 
+<p align="left">
+  <a href="https://github.com/LanYangYang321?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
+
+## 🛠️ Languages and Tools
+
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" />
+  <img src="https://static.stmcu.com.cn/2024-st-logo-blue.svg" alt="ST MCU" width="80" height="40" />
+  <img src="https://www.wch.cn/assets/site/img/logo.png" alt="WCH" width="160" height="40" />
+  <img src="https://www.ni.com/is/image/ni/Multisim_BG?$ni-icon-pm$" alt="Multisim" width="50" height="50" />
+  <img src="http://www.mounriver.com/static/img/1b749f75d9c57f654a11b29cdac777f6.png" alt="Mounriver" width="220" height="40" />
+
+</div>
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&reversal=true&section=footer"/>
+<p align="center" width="100%">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thanks%20For%20Visit&fontAlign=50&reversal=true&section=footer&textBg=false&animation=twinkling&rotate=0&fontAlignY=64"/>
 </p>
 
