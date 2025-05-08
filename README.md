@@ -88,6 +88,6 @@
 
 
 <p align="center" width="100%">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thanks%20For%20Visit&fontAlign=50&reversal=true&section=footer&textBg=false&animation=twinkling&rotate=0&fontAlignY=64"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thanks%20For%20Visit&fontAlign=50&reversal=true&section=footer&textBg=false&animation=twinkling&rotate=0&fontAlignY=64&fontColor=ffffff"/>
 </p>
 
