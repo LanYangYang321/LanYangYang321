@@ -1,12 +1,12 @@
 <p align="center" width="100%">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20👋,%20I'm%20Lanyangyang&fontAlign=50&reversal=true&section=header&textBg=false&animation=twinkling&rotate=0&fontAlignY=36"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20👋,%20I'm%20Lanyangyang&fontAlign=50&reversal=true&section=header&textBg=false&animation=twinkling&rotate=0&fontAlignY=36"/>
 </p>
 
 <h3 align="center">A young-dumb 🤓 student from Shanghai</h1>
 
 <p align="center">
   <!-- Visitor Count -->
-  <img src="https://profile-counter.glitch.me/Lanyangyang321/count.svg" alt="Visitor Count" />
+  <img width="50%" src="https://profile-counter.glitch.me/Lanyangyang321/count.svg" alt="Visitor Count" />
 </p>
 
 
@@ -32,12 +32,20 @@
 
 </br>
 
+
+
+<img align="right" width="38%" src="https://www.loliapi.com/acg/pe/"/>
+
+
 ## 📽️ My Video Channels
 
 <div align="left" style="background-color: black; padding: 20px; border: 2px solid white; border-radius: 10px; display: inline-block;">
   <a href="https://space.bilibili.com/1084866085" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=00BFFF&label=BiliBili&labelColor=282C34&query=$.data.follower&url=https://api.bilibili.com/x/relation/stat?vmid=1084866085&logo=bilibili&logoColor=white" alt="BiliBili 粉丝数" />
-  </a>
+  <img
+    src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=BiliBili&query=$.data.follower&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D1084866085&logo=bilibili&logoColor=white&labelColor=282C34&color=00BFFF"
+    alt="BiliBili 粉丝数"
+  />
+</a>
 
   <a align="left" href="https://www.youtube.com/@lyyontop" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-white?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube 频道">
@@ -45,13 +53,7 @@
 
 </div>
 
-
-
-
 ## 📊 GitHub Stats
-
-
-<img align="right" width="38%" src="https://www.loliapi.com/acg/pe/"/>
 
   <a href="https://github.com/LanYangYang321"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Lanyangyang321&show_icons=true&icon_color=E91E63&title_color=FB7299&text_color=ADBAC7&border_radius=15&theme=transparent&border_color=FFC0CB"></a>
 
