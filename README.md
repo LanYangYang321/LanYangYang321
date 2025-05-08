@@ -55,7 +55,7 @@
   <a href="http://www.mounriver.com/" target="_blank" rel="noreferrer"> <img src="http://www.mounriver.com/static/img/1b749f75d9c57f654a11b29cdac777f6.png" alt="mounriver" width="220" height="40"/> </a> &nbsp;
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lanyangyang321&show_icons=true&icon_color=E91E63&title_color=FB7299&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Lanyangyang321&show_icons=true&icon_color=E91E63&title_color=FB7299&text_color=ADBAC7&bg_color=00000000&hide_border=true&border_radius=15&theme=transparent" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&reversal=true&section=footer"/>
 </p>
