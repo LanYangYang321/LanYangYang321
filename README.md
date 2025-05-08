@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20👋,%20I'm%20Lanyangyang&fontAlign=50&reversal=true&section=header&textBg=false&animation=twinkling&rotate=0&fontAlignY=36"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20👋,%20I'm%20Lanyangyang&fontAlign=50&reversal=true&section=header&textBg=false&animation=twinkling&rotate=0&fontAlignY=36&fontColor=ffffff"/>
 </p>
 
 <h3 align="center">A young-dumb 🤓 student from Shanghai</h1>
@@ -22,9 +22,7 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://www.loliapi.com/acg/" alt="Profile Banner" width="100%" />
-</p>
+![Random ACG](https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.loliapi.com%2Facg?type=json)
 
 #### - 👨‍💻 All of my projects are available at https://github.com/LanYangYang321
 #### - 📫 Reach me at [Lanyyontop@gmail.com](mailto:Lanyyontop@gmail.com)
