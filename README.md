@@ -22,7 +22,9 @@
   </a>
 </div>
 
-![Random ACG](https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.loliapi.com%2Facg?type=json)
+<p align="center">
+  <img src="https://www.loliapi.com/acg/" alt="Profile Banner" width="100%" />
+</p>
 
 #### - 👨‍💻 All of my projects are available at https://github.com/LanYangYang321
 #### - 📫 Reach me at [Lanyyontop@gmail.com](mailto:Lanyyontop@gmail.com)
