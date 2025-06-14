@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20👋,%20I'm%20Lanyangyang&fontAlign=50&reversal=true&section=header&textBg=false&animation=twinkling&rotate=0&fontAlignY=36&fontColor=ffffff"/>
 </p>
 
-<h3 align="center">A young-dumb 🤓 student from Shanghai</h1>
+<h3 align="center">A young-dumb AP course 🤓 student from Shanghai</h1>
 
 <p align="center">
   <!-- Visitor Count -->
