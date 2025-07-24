@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- Visitor Count -->
-  <img width="50%" src="https://profile-counter.glitch.me/Lanyangyang321/count.svg" alt="Visitor Count" />
+  <img width="50%" src="https://count.getloli.com/@lyy?name=lyy&theme=capoo-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="Visitor Count" />
 </p>
 
 
